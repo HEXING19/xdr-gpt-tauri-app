@@ -1,1 +1,0 @@
-# xdr-gpt-tauri-app
